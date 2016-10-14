@@ -1,1 +1,3 @@
 # pythonproject
+
+print "hello world"
